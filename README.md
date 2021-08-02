@@ -1,5 +1,10 @@
 This is a 3D Printed Drawbot using marlin firmware 
 
+
+
+https://user-images.githubusercontent.com/87578488/127893004-39f135e6-a3df-40e6-8672-8e7cf237f4f2.mp4
+
+
 The original design of the 3d printed parts are from Ariel Yahni
 https://www.thingiverse.com/thing:1546158
 
